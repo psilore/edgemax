@@ -1,5 +1,5 @@
 # Edgemax
-Learning Edgerouter maintenance and administration in order to automate. 
+Automate administration & maintenance with ansible.
 
 
 ## EdgeRouter 4
